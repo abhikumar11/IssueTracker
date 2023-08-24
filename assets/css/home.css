@@ -1,0 +1,12 @@
+
+.home-container{
+    background:linear-gradient(#000428 , #004e92);
+    color:white;
+}
+.home-container:hover{
+    background-color: #96b9ee;
+}
+.project-name{
+    margin: auto;
+    margin-left: 1%;
+}
